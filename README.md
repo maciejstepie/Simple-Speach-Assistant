@@ -17,7 +17,7 @@ You can install these libraries using the following command:
 
 ## Usage
 
-To use this script, you need to run the `speech_recognition.py` file. Before running the script, make sure that your microphone is connected and working properly.
+To use this script, you need to run the `speech.py` file. Before running the script, make sure that your microphone is connected and working properly.
 
 When the script is running, you can give voice commands to execute programs or paste text from the clipboard. If you say the word "tłumacz" followed by a Polish word, the script will translate the word to English and read out the translation.
 
